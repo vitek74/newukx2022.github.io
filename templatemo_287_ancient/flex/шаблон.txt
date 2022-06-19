@@ -1,0 +1,11 @@
+<div id='flex-container'>
+  <div>1</div><div>2</div><div>3</div><div>4</div>
+</div>
+
+
+
+
+
+* {box-sizing: border-box; }
+#flex-container {background: rgb(0, 150, 208); display: flex; height: ; flex-wrap: wrap; justify-content: space-evenly; }
+#flex-container > div {background: rgb(241, 101, 41); border: 1px solid; width: 30%; margin: 0px; padding: 0px; }
